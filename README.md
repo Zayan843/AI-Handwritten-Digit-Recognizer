@@ -1,4 +1,5 @@
 # Step 1: Import the necessary libraries
+pip install tensorflow matplotlib numpy
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
 import matplotlib.pyplot as plt
